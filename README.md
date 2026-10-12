@@ -4,7 +4,7 @@ A complete end-to-end **machine learning project** that predicts real estate pri
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Content
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
